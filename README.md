@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi, I'm Viraj Patil 👋
 
-<!--
-**virajpatil/virajpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sr Web Developer | Full Stack Developer | 20+ Years Experience
 
-Here are some ideas to get you started:
+Experienced Full Stack Web Developer specializing in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* WordPress Development
+* Shopify Development
+* PHP & MySQL
+* JavaScript & jQuery
+* REST API Integrations
+* Enterprise CMS Platforms
+* Performance Optimization
+* Security & VAPT Fixes
+* Production Support & Debugging
+
+Over the years, I have worked on scalable financial platforms, IPO systems, mutual fund portals, eCommerce websites, corporate platforms, and business-critical web applications.
+
+---
+
+## Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* jQuery
+
+### Backend
+
+* PHP
+* MySQL
+* REST APIs
+
+### Platforms
+
+* WordPress
+* Shopify
+
+### Other Skills
+
+* API Integration
+* Performance Optimization
+* Database Optimization
+* Technical Troubleshooting
+* CMS Development
+* Security Fixes
+
+---
+
+## Key Project Areas
+
+* IPO Platforms
+* Mutual Fund Platforms
+* Financial Services Websites
+* Enterprise CMS Systems
+* Shopify eCommerce Stores
+* Custom WordPress Plugins
+* API Integrated Platforms
+* Performance Optimization Projects
+
+---
+
+## Open To Work
+
+Available for:
+
+* Full-Time Opportunities
+* Remote Roles
+* Contract Projects
+* Freelance & Consulting Work
+
+---
+
+## Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/virajpatil79
+
+GitHub:
+https://github.com/virajpatil
